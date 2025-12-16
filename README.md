@@ -117,5 +117,5 @@ src/
 ├── screenshots/         # Project images for README
 └── App.jsx              # Main routing configuration
 
-# 📄 License
-# This project is open source and available under the MIT License.
+ 📄 License
+ This project is open source and available under the MIT License.
